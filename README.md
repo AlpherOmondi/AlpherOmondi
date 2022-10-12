@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Alpha Omondi</h1>
 <h3 align="center">A passionate Android developer in Kenya</h3>
-<img src="https://giphy.com/embed/llarwdtFqG63IlqUR1" align="right" width="200" height="200">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpheromondi&label=Profile%20views&color=0e75b6&style=flat" alt="alpheromondi" /> </p>
 
