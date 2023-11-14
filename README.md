@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Android projects**
 
-- 🌱 I’m currently learning **Android, kotlin*
+- 🌱 I’m currently learning **Android, kotlin**
 
-- 👯 I’m looking to collaborate on **droidcon.ke**
+- 👯 I’m looking to collaborate on **Android and Kotlin projects**
 
 - 💬 Ask me about **Android, kotlin , flask**
 
