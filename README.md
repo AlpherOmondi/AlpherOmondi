@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpheromondi" alt="alpheromondi" /></a> </p>
 
-- 🔭 I’m currently working on **shamber.co.ke**
+- 🔭 I’m currently working on **Android projects**
 
-- 🌱 I’m currently learning **Android, flask, react and user experience**
+- 🌱 I’m currently learning **Android, kotlin*
 
 - 👯 I’m looking to collaborate on **droidcon.ke**
 
-- 💬 Ask me about **Android, React, User experience and project management**
+- 💬 Ask me about **Android, kotlin , flask**
 
-- 📫 How to reach me **alphaomondi001@gmail.com**
+- 📫 How to reach me **alphaomondi1@gmail.com**
 
 - ⚡ Fun fact **I think humanity will eventually overcome death**
 
